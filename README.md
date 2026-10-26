@@ -10,3 +10,8 @@ The background of the story is given introducing the plot.
 The story develops giving choices using inputs every so often.
 In order to give an outcome, elif, and else are used.
 Throughout the code this is repeated.
+
+How to run:
+Download the Apo.exe file on my Apo text git release
+open file and game will start
+when indicate to inputs a option select one and the story will proceed from there.
